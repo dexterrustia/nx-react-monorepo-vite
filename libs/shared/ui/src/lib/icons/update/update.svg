@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="238.18" height="189.5" viewBox="0 0 238.18 189.5">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_136538" data-name="Rectangle 136538" width="83" height="83" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_151236" data-name="Group 151236" transform="translate(-520.91 -194.5)">
+    <g id="Group_151229" data-name="Group 151229">
+      <g id="Group_151224" data-name="Group 151224" transform="translate(520.91 194.5)">
+        <ellipse id="Ellipse_29" data-name="Ellipse 29" cx="50.644" cy="50.622" rx="50.644" ry="50.622" transform="translate(238.18 189.5) rotate(180)" fill="#fefaec"/>
+        <circle id="Ellipse_30" data-name="Ellipse 30" cx="19.309" cy="19.309" r="19.309" transform="translate(38.618 167.047) rotate(180)" fill="#fcebb3"/>
+        <ellipse id="Ellipse_31" data-name="Ellipse 31" cx="34.004" cy="33.989" rx="34.004" ry="33.989" transform="translate(99.269 85.363) rotate(180)" fill="#fefaec"/>
+        <ellipse id="Ellipse_32" data-name="Ellipse 32" cx="58.241" cy="58.369" rx="58.241" ry="58.369" transform="translate(234.702 116.739) rotate(180)" fill="#fdf2d0"/>
+        <ellipse id="Ellipse_33" data-name="Ellipse 33" cx="83.201" cy="83.165" rx="83.201" ry="83.165" transform="translate(206.345 183.715) rotate(180)" fill="#fcebb3"/>
+      </g>
+      <g id="businessrounded" transform="translate(598 243)">
+        <path id="Path_549" data-name="Path 549" d="M0,0H98V98H0Z" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_151235" data-name="Group 151235" transform="translate(605 259)" clip-path="url(#clip-path)">
+      <path id="Path_642" data-name="Path 642" d="M70.014,8H14.89A6.911,6.911,0,0,0,8,14.89V76.9L21.781,63.123H70.014a6.911,6.911,0,0,0,6.89-6.89V14.89A6.911,6.911,0,0,0,70.014,8ZM42.452,39.007a3.455,3.455,0,0,1-3.445-3.445V21.781a3.445,3.445,0,1,1,6.89,0V35.562A3.455,3.455,0,0,1,42.452,39.007ZM45.9,52.788h-6.89V45.9H45.9Z" transform="translate(-1.11 -1.11)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

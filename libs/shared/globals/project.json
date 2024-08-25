@@ -1,0 +1,9 @@
+{
+  "name": "globals",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/shared/globals/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project globals --web",
+  "targets": {}
+}
