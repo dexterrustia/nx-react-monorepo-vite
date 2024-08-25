@@ -20,6 +20,7 @@
       "@nx-react-monorepo/employees": [
         "libs/my-company/employees/src/index.ts"
       ],
+      "@nx-react-monorepo/globals": ["libs/shared/globals/src/index.ts"],
       "@nx-react-monorepo/ui": ["libs/shared/ui/src/index.ts"]
     }
   },

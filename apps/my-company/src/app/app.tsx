@@ -1,16 +1,20 @@
-import styled from '@emotion/styled';
+import { Route, Routes } from 'react-router-dom';
 
-import NxWelcome from './nx-welcome';
+const Home = () => {
+  return <>WELCOME HOME</>
+}
 
-const StyledApp = styled.div`
-  // Your style here
-`;
+const Employees = () => {
+  return <>Employees HOME</>
+}
 
-export function App() {
+
+const App = () => {
   return (
-    <StyledApp>
-      <NxWelcome title="my-company" />
-    </StyledApp>
+    <Routes>
+      <Route path='/' element={<Home/>}></Route>
+      <Route path='/employees' element={<Employees/>}></Route>
+    </Routes>
   );
 }
 
