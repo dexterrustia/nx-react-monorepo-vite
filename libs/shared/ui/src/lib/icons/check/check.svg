@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="238.18" height="189.5" viewBox="0 0 238.18 189.5">
+  <g id="Group_151232" data-name="Group 151232" transform="translate(-520.91 -240.5)">
+    <g id="Group_151224" data-name="Group 151224" transform="translate(520.91 240.5)">
+      <ellipse id="Ellipse_29" data-name="Ellipse 29" cx="50.644" cy="50.622" rx="50.644" ry="50.622" transform="translate(238.18 189.5) rotate(180)" fill="#e8f6f4"/>
+      <circle id="Ellipse_30" data-name="Ellipse 30" cx="19.309" cy="19.309" r="19.309" transform="translate(38.618 167.047) rotate(180)" fill="#c9e9e2"/>
+      <ellipse id="Ellipse_31" data-name="Ellipse 31" cx="34.004" cy="33.989" rx="34.004" ry="33.989" transform="translate(99.269 85.363) rotate(180)" fill="#e8f6f4"/>
+      <ellipse id="Ellipse_32" data-name="Ellipse 32" cx="58.241" cy="58.369" rx="58.241" ry="58.369" transform="translate(234.702 116.739) rotate(180)" fill="#a8dbcf"/>
+      <ellipse id="Ellipse_33" data-name="Ellipse 33" cx="83.201" cy="83.165" rx="83.201" ry="83.165" transform="translate(206.345 183.715) rotate(180)" fill="#c9e9e2"/>
+    </g>
+    <g id="CheckRounded" transform="translate(582 275)">
+      <g id="Group_1288" data-name="Group 1288">
+        <path id="Path_563" data-name="Path 563" d="M0,0H132V132H0Z" fill="none"/>
+      </g>
+      <g id="Group_1289" data-name="Group 1289" transform="translate(23.526 35.234)">
+        <path id="Path_564" data-name="Path 564" d="M79.751,8.022l-46.64,46.64-19.47-19.47a5.477,5.477,0,0,0-7.755,0h0a5.477,5.477,0,0,0,0,7.755l23.32,23.32a5.477,5.477,0,0,0,7.755,0l50.49-50.49a5.494,5.494,0,0,0-.055-7.81h0A5.4,5.4,0,0,0,79.751,8.022Z" transform="translate(-4.278 -6.406)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
